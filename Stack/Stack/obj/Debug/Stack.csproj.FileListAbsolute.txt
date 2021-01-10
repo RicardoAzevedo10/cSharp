@@ -1,0 +1,7 @@
+C:\Users\Ricardo Azevedo\source\repos\Stack\Stack\bin\Debug\Stack.exe.config
+C:\Users\Ricardo Azevedo\source\repos\Stack\Stack\bin\Debug\Stack.exe
+C:\Users\Ricardo Azevedo\source\repos\Stack\Stack\bin\Debug\Stack.pdb
+C:\Users\Ricardo Azevedo\source\repos\Stack\Stack\obj\Debug\Stack.csprojAssemblyReference.cache
+C:\Users\Ricardo Azevedo\source\repos\Stack\Stack\obj\Debug\Stack.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Azevedo\source\repos\Stack\Stack\obj\Debug\Stack.exe
+C:\Users\Ricardo Azevedo\source\repos\Stack\Stack\obj\Debug\Stack.pdb
