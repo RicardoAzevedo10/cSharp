@@ -1,0 +1,7 @@
+C:\Users\Ricardo Azevedo\source\repos\readFiles\readFiles\bin\Debug\readFiles.exe.config
+C:\Users\Ricardo Azevedo\source\repos\readFiles\readFiles\bin\Debug\readFiles.exe
+C:\Users\Ricardo Azevedo\source\repos\readFiles\readFiles\bin\Debug\readFiles.pdb
+C:\Users\Ricardo Azevedo\source\repos\readFiles\readFiles\obj\Debug\readFiles.csprojAssemblyReference.cache
+C:\Users\Ricardo Azevedo\source\repos\readFiles\readFiles\obj\Debug\readFiles.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Azevedo\source\repos\readFiles\readFiles\obj\Debug\readFiles.exe
+C:\Users\Ricardo Azevedo\source\repos\readFiles\readFiles\obj\Debug\readFiles.pdb
