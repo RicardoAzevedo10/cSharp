@@ -1,0 +1,7 @@
+C:\Users\Ricardo Azevedo\source\repos\checkPangram\checkPangram\bin\Debug\checkPangram.exe.config
+C:\Users\Ricardo Azevedo\source\repos\checkPangram\checkPangram\bin\Debug\checkPangram.exe
+C:\Users\Ricardo Azevedo\source\repos\checkPangram\checkPangram\bin\Debug\checkPangram.pdb
+C:\Users\Ricardo Azevedo\source\repos\checkPangram\checkPangram\obj\Debug\checkPangram.csprojAssemblyReference.cache
+C:\Users\Ricardo Azevedo\source\repos\checkPangram\checkPangram\obj\Debug\checkPangram.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Azevedo\source\repos\checkPangram\checkPangram\obj\Debug\checkPangram.exe
+C:\Users\Ricardo Azevedo\source\repos\checkPangram\checkPangram\obj\Debug\checkPangram.pdb
