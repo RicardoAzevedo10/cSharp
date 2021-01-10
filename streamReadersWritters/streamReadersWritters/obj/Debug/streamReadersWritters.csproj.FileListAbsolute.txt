@@ -1,0 +1,7 @@
+C:\Users\Ricardo Azevedo\source\repos\streamReadersWritters\streamReadersWritters\obj\Debug\streamReadersWritters.csprojAssemblyReference.cache
+C:\Users\Ricardo Azevedo\source\repos\streamReadersWritters\streamReadersWritters\obj\Debug\streamReadersWritters.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Azevedo\source\repos\streamReadersWritters\streamReadersWritters\bin\Debug\streamReadersWritters.exe.config
+C:\Users\Ricardo Azevedo\source\repos\streamReadersWritters\streamReadersWritters\bin\Debug\streamReadersWritters.exe
+C:\Users\Ricardo Azevedo\source\repos\streamReadersWritters\streamReadersWritters\bin\Debug\streamReadersWritters.pdb
+C:\Users\Ricardo Azevedo\source\repos\streamReadersWritters\streamReadersWritters\obj\Debug\streamReadersWritters.exe
+C:\Users\Ricardo Azevedo\source\repos\streamReadersWritters\streamReadersWritters\obj\Debug\streamReadersWritters.pdb
