@@ -1,0 +1,7 @@
+C:\Users\Ricardo Azevedo\source\repos\Exercicio2 APAI\Exercicio2 APAI\obj\Debug\Exercicio2 APAI.csprojAssemblyReference.cache
+C:\Users\Ricardo Azevedo\source\repos\Exercicio2 APAI\Exercicio2 APAI\obj\Debug\Exercicio2 APAI.csproj.CoreCompileInputs.cache
+C:\Users\Ricardo Azevedo\source\repos\Exercicio2 APAI\Exercicio2 APAI\bin\Debug\Exercicio2 APAI.exe.config
+C:\Users\Ricardo Azevedo\source\repos\Exercicio2 APAI\Exercicio2 APAI\bin\Debug\Exercicio2 APAI.exe
+C:\Users\Ricardo Azevedo\source\repos\Exercicio2 APAI\Exercicio2 APAI\bin\Debug\Exercicio2 APAI.pdb
+C:\Users\Ricardo Azevedo\source\repos\Exercicio2 APAI\Exercicio2 APAI\obj\Debug\Exercicio2 APAI.exe
+C:\Users\Ricardo Azevedo\source\repos\Exercicio2 APAI\Exercicio2 APAI\obj\Debug\Exercicio2 APAI.pdb
