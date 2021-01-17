@@ -3,10 +3,8 @@ All the code made in c#
 
 It will cover many topics:
 
-stream readers and write systems
-client and server
--
--
--
+-C#
+-stream readers and write systems
+-client and server
 -
 -
