@@ -13,3 +13,7 @@ BattleShip Board Game
 Pangram
 
 Stacks
+
+Arrays 
+
+Basics
